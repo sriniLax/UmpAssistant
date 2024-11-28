@@ -1,2 +1,2 @@
-# Cricket_applications
+# Cricket Applications
 Umpiring and scoring
