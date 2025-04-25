@@ -1,0 +1,54 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,TIME,,,EVENT,,,CURRENT,,,COMMENTS,
+,,,,,,,PENALTY,,,,
+,,,,,,,TIME,,,,
+1100,,,The match starts,,,0 mins,,,,,
+,1145,,,Fielder Bradman test the umpires,,,0 mins,,,This is an internal injury meaning,
+,,,,he has pulled a muscle in his leg,,,,,,Bradman is unable to bowl or bat,
+,,,,and leaves the field,,,,,,until he has been on the held for the,
+,,,,,,,,,,same length of time (the Penalty,
+,,,,,,,,,,time) he is off it.,
+1300,,,Scheduled time for Lunch interval,,,75 mins,,,,,
+,1340,,,The next session of play,,,75 mins,,,Lunch is scheduled interval- no,
+,,,,commences,,,,,,additional Penalty time is added.,
+1355,,,Bradman remains off the field,,,90 mins,,,"This is the maximum Penalty time –
+no further time will be added at this
+stage.",,
+,1415,,,Play is suspended due to rain,,,90 mins,,,As Bradman has not told the umpire,
+,,,,,,,,,,he is ready to resume the time of the,
+,,,,,,,,,,unscheduled interruption is not taken,
+,,,,,,,,,,off the Penalty time.,
+1445,,,"Play recommences but Bradman
+remains off the field",,,90 mins,,,,,
+,1500,,,Play is suspended due to rain,,,90 mins,,,,
+1510,,,Bradman advised the umpires he,,,90 mins,,,,,
+,1520,,,"is ready to resume play
+Play recommences with Bradman",,,80 mins,,,Any remaining time in an,
+,,,,on the field of play,,,,,,unscheduled interruption after,
+,,,,,,,,,,Bradman advises the umpires he/she,
+,,,,,,,,,,is ready to play games taken off the,
+,,,,,,,,,,remaining Penalty time.,
+1540,,,Scheduled time for tea,,,60 mins,,,"Bradman has been on the field for 20
+minutes which reduces the Penalty
+time.",,
+,1600,,,Play recommences,,,60 mins,,,Tea is a scheduled interval meaning,
+,,,,,,,,,,Penalty time is not reduced.,
+1620,,,Play is suspended due to rain,,,40 mins,,,"Bradman was on the field from tea
+aunty ne start of interruption, so the
+time reduces Penalty time to be
+served.",,
+,1640,,,Play recommences with Bradman,,,20 mins,,,Because Bradman was on the field,
+,,,,on the field,,,,,,when the unscheduled interruption,
+,,,,,,,,,,began and rata when play,
+,,,,,,,,,,recommence the full period of the,
+,,,,,,,,,,interruption is taken off the Penalty,
+,,,,,,,,,,time.,
+1640,,,"Bradman advises the umpire his
+Injury has worsened and leaves
+the field of play",,,10 mins,,,"Penalty time has reduced to 10
+minutes but now time off the field
+will be added to the outstanding
+Penalty time up to a maximum of 90
+minutes.",,
+,1800,,,Play ends for the day,,,80 mins,,,,
+,,,,,,,,,,,

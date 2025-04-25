@@ -1,0 +1,43 @@
+0,1,2,3,4,5,6,7,8,9,10,11
+,TIME,,,EVENT,,,CURRENT PENALTY,,,COMMENTS,
+,,,,,,,TIME,,,,
+1100,,,"Play commences on
+day 2 with Bradman on
+the field",,,80 mins,,,"Outstanding Penalty
+time is carried over to
+Day 2 but will now
+start to reduce.",,
+,1130,,,The first innings ends,,,50 mins,,,The following part of,
+,,,,,,,,,,the example refers to,
+,,,,,,,,,,application of Law 25,
+,,,,,,,,,,but is included for,
+,,,,,,,,,,completeness.,
+1140,,,"The second innings
+commences - Bradman
+was due to open, but is
+not permitted as he
+still has Penalty time to
+serve",,,50 mins,,,"The 10 minutes
+between innings is a
+scheduled interval
+meaning Penalty time
+is not reduced.",,
+,1220,,,The 5th wicket tales,,,10 mins,,,Although there is still,
+,,,,and Bradman comes,,,,,,10 minutes of Penalty,
+,,,,into bat,,,,,,time to serve because,
+,,,,,,,,,,5 wickets have fallen,
+,,,,,,,,,,Bradman is entitled to,
+,,,,,,,,,,bat immediately.,
+1225,,,"Bradman is dismissed
+and the captain
+declares",,,5 mins,,,"Penalty time is
+reduced while
+Bradman is batting.",,
+,1235,,,2nd innings,,,5 mins,,,The 10 minutes,
+,,,,commences. Bradman,,,,,,between innings is a,
+,,,,Takes the field but is,,,,,,scheduled interval,
+,,,,not allowed to bowl,,,,,,meaning Penalty time,
+,,,,,,,,,,is not reduced.,
+1240,,,"Bradman is allowed to
+bowl",,,0 mins,,,"All of his Penalty time
+has now been served.",,
